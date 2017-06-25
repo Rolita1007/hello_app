@@ -1,5 +1,11 @@
 # README
 
+#Ruby on Rails Turotial
+
+## "hellom world!"
+
+This is the first appliation for the [*Ruby on Rails Turotial*] Hello, world!
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
