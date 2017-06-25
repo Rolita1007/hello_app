@@ -1,8 +1,8 @@
 # README
 
-#Ruby on Rails Turotial
+#Ruby on Rails Tutorial
 
-## "hellom world!"
+## "hello world!"
 
 This is the first appliation for the [*Ruby on Rails Turotial*] Hello, world!
 
